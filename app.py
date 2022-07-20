@@ -161,6 +161,6 @@ def update_usuario(id):
 
 # programa principal ****************************************
 if __name__=='__main__':  
-    app.run(  )
+    app.run( debug=True )
 
 #debug=True, port=5000
